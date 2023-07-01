@@ -9,11 +9,11 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- (&lt;#Class#&gt;)&lt;#name#&gt; {
+	<string>- (&lt;#Class *#&gt;)&lt;#name#&gt; {
     if (_&lt;#name#&gt;) {
         _&lt;#name#&gt; = &lt;#some#&gt;;
     }
-    return  _&lt;#name#&gt;;
+    return _&lt;#name#&gt;;
 }</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0CC7680E-7C07-4450-A5FC-DF3CBFA095EA</string>
@@ -22,7 +22,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>lfLazy</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>✅懒加载</string>
+	<string>懒加载</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (&lt;#type#&gt;, nonatomic) &lt;#Class#&gt; &lt;#*name#&gt;;</string>
+	<string>@property (nonatomic, &lt;#type#&gt;) &lt;#Class#&gt; &lt;#*name#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>50191CDD-909B-4A94-A16B-873463A5D0F3</string>
 	<key>IDECodeSnippetLanguage</key>
@@ -17,7 +17,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>lfProperty</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>✅@property</string>
+	<string>@property</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

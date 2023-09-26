@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>lfFixme</string>
+	<string>lfFIXME</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// FIXME: &lt;#name#&gt;</string>
+	<string>// FIXME: &lt;#- name#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F80F8398-0182-45E4-8B3E-BDB8DC728987</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>lfFixme</string>
+	<string>快捷键：lfFIXME</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>FIXME</string>
+	<string>// FIXME:</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

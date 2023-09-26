@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>lfProperty</string>
+	<string>lf@property</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>All</string>
+		<string>ClassInterfaceMethods</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic, &lt;#type#&gt;) &lt;#Class#&gt; &lt;#*name#&gt;;</string>
+	<string>@property (&lt;#nonatomic#&gt;, &lt;#type#&gt;) &lt;#Class#&gt; &lt;#*name#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>50191CDD-909B-4A94-A16B-873463A5D0F3</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>lfProperty</string>
+	<string>快捷键：lf@property</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>@property</string>
+	<string>ObjC：@property</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

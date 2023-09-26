@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>lfMark</string>
+	<string>lfPragmaMark</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#pragma mark &lt;#- name#&gt;</string>
+	<string>#pragma mark &lt;#- name，等同于 // MARK:#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FB767BBE-26BD-4341-9EC5-108A94D32941</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>lfMark</string>
+	<string>快捷键：lfPragmaMark</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>#pragma mark</string>
+	<string>ObjC：#pragma mark</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

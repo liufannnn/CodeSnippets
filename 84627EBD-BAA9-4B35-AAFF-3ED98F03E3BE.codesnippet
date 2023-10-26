@@ -3,21 +3,22 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>lf@property</string>
+	<string>lfStrongSelf</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (&lt;#nonatomic#&gt;, &lt;#type#&gt;) &lt;#Class#&gt; &lt;#*name#&gt;;</string>
+	<string>__weak typeof(self)weakSelf = self;
+__strong typeof(weakSelf)self = weakSelf;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>50191CDD-909B-4A94-A16B-873463A5D0F3</string>
+	<string>84627EBD-BAA9-4B35-AAFF-3ED98F03E3BE</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>快捷键：lf@property</string>
+	<string>快捷键：lfStrongSelf</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>ObjC：@property</string>
+	<string>ObjC：strongSelf</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
